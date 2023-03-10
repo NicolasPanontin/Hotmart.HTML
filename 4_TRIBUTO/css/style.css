@@ -74,3 +74,13 @@ html {
     font-weight: bold;
     text-align: center;
 }
+
+@media screen and (max-width: 768) {
+    .featured-image{
+        width: 50vw;
+    }
+
+    .corpo{
+        text-align: center;
+    }
+}
